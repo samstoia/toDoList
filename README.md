@@ -1,4 +1,6 @@
 # _To DO List_
+My first foray into OOP.  Create task objects with name and done properties that people can mark as completed.
+
 
 #### _01/28/2019_
 
